@@ -1,4 +1,3 @@
 Streamlit
-opencv
-Numpy
-PIL
+opencv-python-headless
+numpy
