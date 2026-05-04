@@ -1,6 +1,6 @@
-# Image Editor with Streamlit & OpenCV
+#  Image Editor with Streamlit & OpenCV
 
-## 📌 Project Description
+##  Project Description
 
 This project is a browser-based Image Editing Application built using Python.
 It allows users to upload an image, apply multiple image processing filters, preview the results in real time, and download the edited image.
@@ -44,7 +44,7 @@ The application uses:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 image_editor/
@@ -54,15 +54,40 @@ image_editor/
 ├── utils.py            # Helper functions
 ├── requirements.txt    # Dependencies
 └── README.md           # Project documentation
+```
 
-Installation & Setup
-Step 1: Clone the Repository
+##  Application Preview
 
-git clone https://github.com/your-username/image-editor.git
-cd image-editor
+![alt text](image.png)
 
-Step 2: Install Dependencies
-pip install -r requirements.txt
+---
 
-Step 3: Run the Application
-streamlit run app.py
+##  Demo Video
+
+(shirishavattikota99/Image_Editor)
+
+---
+
+##  Key Concepts Learned
+
+* Image representation using NumPy arrays
+* OpenCV image processing techniques
+* Building interactive UI using Streamlit
+* Image format conversion (PIL ↔ NumPy ↔ Bytes)
+* Writing modular and maintainable code
+
+---
+
+##  Future Improvements
+
+* Add more filters (sepia, cartoon, HDR)
+* Add image cropping & resizing
+* Deploy the app online
+
+---
+
+##  Author
+
+V. Shirisha
+
+---
